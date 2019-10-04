@@ -1,0 +1,43 @@
+¿Cómo se divide un disco duro?
+EL SECTOR DE ARRANQUE. Al formatear un volumen, el sector de arranque se crea siempre como primer sector del volumen, para que sea fácil de localizar por el DOS. En él se encuentra información acerca del tamaño de la estructura del volumen y sobre todo del BOOTSTRAP-LOADER.
+LA TABLA DE ASIGNACION DE FICHEROS (File Allocation Table) (FAT): Si el DOS quiere crear nuevos archivos; ha de saber que sectores del volumen correspondiente quedan libres, estas informaciones son llamadas FAT.
+UNA O MAS COPIAS DE LA FAT: El dos permite a un programa de formateo crear no solo una, sino varias copias idénticas de la FAT.
+EL DIRECTORIO RAIZ: La cantidad máxima de entradas en el directorio raíz se limita por su tamaño, que se fija en el sector de arranque.
+LA ZONA DE DATOS. Es la parte del disco duro en la que se almacena los datos de un archivo.
+
+
+TIPOS DE DISCOS DUROS Y SUS VELOCIDADES
+SAS: Estos discos son muy solicitados para el empleo en servidores, es posible conectarlos hasta con 6 o 7 metros de distancia y de ahí en adelante cubrir hasta 24 computadoras.
+SCSI: Estos discos poseen una interfaz muy pequeña y exige de un controlador para que opere.
+IDE, ATA Y PATA: Cada clase de disco duro representa o quiere decir: IDE. Es la abreviatura de componente electrónico avanzado de contacto. PATA. Es la abreviatura de Tecnología paralela avanzada.
+SATA: Esta sigla significa tecnología avanzada de contacto. Y se distingue por funcionar con una velocidad cercana a los 150 Megabytes por segundo.
+SATA 2: Este dispositivo dispone de mejor capacidad debido a que funciona hasta con 300 Megabytes por segundo, lo que representa que su tiempo de respuesta  es muy bueno, DISCO DURO SATA 2 se diferencia en comparación con el SATA es que realiza sus actividades a 300 Megabytes/segundo.
+SATA 3: Alcanza una velocidad de hasta 600 mg de transferencia por su rendimiento es el más solicitado además de contar con una gran capacidad al mismo tiempo su tamaño es pequeño, con relación a los demás.
+
+
+TIPOS DE COMPUTADORAS
+PORTÁTILES: Son modelos con una pantalla plana, teclado, memoria, procesador y dispositivo señalados. Sus funciones son las mismas que las de un computador de escritorio, pero son más costosas por su tamaño que es compacto y reducida.
+ESTACIONES DE TRABAJO: Son monitores que tienen monitores muy grandes, que por esa condición pueden presentar gráficos en la más alta calidad. 
+SERVIDORES: Son computadoras que se han optimizado para así brindar sus servicios a otras computadoras, aunque todo por medio de una red.
+MAINFRAMES: Son computadoras con tamaños enormes que podrían ocupar hasta una habitación en su totalidad, son demasiados caros y se los ha pensado para el procesamiento de varias tareas que se realizan por distintos usuarios en simultáneo.
+MINICOMPUTADORAS: Semejantes a un servidor, pero con menos potencia.
+Supercomputadoras: Son muy costosas y de alta complejidad. Se emplean para aplicaciones muy especializadas.
+EN QUE SE DIVIDE EL PROCESADOR DE UNA COMPUTADORA
+ZOCALO: Aquí es donde se incrusta el procesador para dar vida y conectarse con el equipo para luego ejecutar los órdenes.
+CPU: Es el cerebro de la computadora, es el procesador central del ordenador.
+MICROPROCESADOR: Se ubica dentro del procesador central y se encarga de captar la información que llega por medio del techado y el mouse.
+UNIDAD DE CONTROL: Es la responsable vigilar que las operaciones se ejecuten en secuencias y que se están llevando a cabo de la mejor manera.
+ENCAPSULADO: Es una lámina de silicio que rodea al procesador, el cual lo cubre para garantizar una protección y alargar su vida en cuanto al deterioro.
+CHIPSET: Es un conjunto de chips responsables de controlar funciones determinadas de equipo.
+REGISTROS: Es una memoria ubicada en el procesador que guardan las informaciones de forma temporal mientras se ejecutan las órdenes del procesador.
+UNIDAD ARITMETICA LOGICA: Es la responsable de las operaciones aritméticas y lógicas del procesador.
+TARGETA DE VIDEO: La función de la tarjeta de video es producir gráficos partiendo de los partiendo de los datos recibidos desde el procesador.
+MEMORIA CACHÉ: Es aquella que almacena los programas y/o informaciones más utilizadas. Es la memoria de acceso aleatorio que posibilita mantener información de forma momentánea, debido a que se pierden los datos al apagarse el computer.
+Este ubicado dentro de la tarjeta madre por lo tanto se encuentran en el interior del CPU. 
+
+
+
+
+
+
+
